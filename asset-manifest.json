@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/tester/static/css/main.4a0df84d.chunk.css",
-    "main.js": "/tester/static/js/main.e52b7aa4.chunk.js",
-    "main.js.map": "/tester/static/js/main.e52b7aa4.chunk.js.map",
+    "main.css": "/tester/static/css/main.d64c62ac.chunk.css",
+    "main.js": "/tester/static/js/main.e852e089.chunk.js",
+    "main.js.map": "/tester/static/js/main.e852e089.chunk.js.map",
     "runtime-main.js": "/tester/static/js/runtime-main.bbe2f85b.js",
     "runtime-main.js.map": "/tester/static/js/runtime-main.bbe2f85b.js.map",
-    "static/js/2.a0a4b473.chunk.js": "/tester/static/js/2.a0a4b473.chunk.js",
-    "static/js/2.a0a4b473.chunk.js.map": "/tester/static/js/2.a0a4b473.chunk.js.map",
+    "static/js/2.8a25a776.chunk.js": "/tester/static/js/2.8a25a776.chunk.js",
+    "static/js/2.8a25a776.chunk.js.map": "/tester/static/js/2.8a25a776.chunk.js.map",
     "static/js/3.1f032b28.chunk.js": "/tester/static/js/3.1f032b28.chunk.js",
     "static/js/3.1f032b28.chunk.js.map": "/tester/static/js/3.1f032b28.chunk.js.map",
     "index.html": "/tester/index.html",
-    "static/css/main.4a0df84d.chunk.css.map": "/tester/static/css/main.4a0df84d.chunk.css.map",
-    "static/js/2.a0a4b473.chunk.js.LICENSE.txt": "/tester/static/js/2.a0a4b473.chunk.js.LICENSE.txt",
+    "static/css/main.d64c62ac.chunk.css.map": "/tester/static/css/main.d64c62ac.chunk.css.map",
+    "static/js/2.8a25a776.chunk.js.LICENSE.txt": "/tester/static/js/2.8a25a776.chunk.js.LICENSE.txt",
     "static/media/reset.css": "/tester/static/media/PixAntiqua.c1a9a13d.ttf",
     "static/media/gif2.a14fd248.gif": "/tester/static/media/gif2.a14fd248.gif",
     "static/media/image1.eaac5014.jpeg": "/tester/static/media/image1.eaac5014.jpeg",
     "static/media/image2.7cbbcf47.jpeg": "/tester/static/media/image2.7cbbcf47.jpeg",
-    "static/media/image3.a0c09d49.jpeg": "/tester/static/media/image3.a0c09d49.jpeg"
+    "static/media/image3.a0c09d49.jpeg": "/tester/static/media/image3.a0c09d49.jpeg",
+    "static/media/peeper.c643d562.png": "/tester/static/media/peeper.c643d562.png",
+    "static/media/tweeter.b6d9229e.png": "/tester/static/media/tweeter.b6d9229e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bbe2f85b.js",
-    "static/js/2.a0a4b473.chunk.js",
-    "static/css/main.4a0df84d.chunk.css",
-    "static/js/main.e52b7aa4.chunk.js"
+    "static/js/2.8a25a776.chunk.js",
+    "static/css/main.d64c62ac.chunk.css",
+    "static/js/main.e852e089.chunk.js"
   ]
 }
